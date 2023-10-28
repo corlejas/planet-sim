@@ -15,3 +15,4 @@ This repo is composed of the following files:
 -  ***Primordis.png*** is the DALL-E 3 representation of Primordis.
 -  ***Terranova.png*** is the DALL-E 3 representation of Terranova.
 -  ***Verdantia.png*** is the DALL-E 3 representation of Verdantia.
+-  ***Repo QR Code.png*** is the QR code to direct to this repo.
