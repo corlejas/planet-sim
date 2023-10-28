@@ -4,7 +4,7 @@ Simulate planets in ChatGPT.  Used as part of a demonstration of the power of GP
 ### Background
 I wanted to demonstrate the power of ChatGPT at this early point in its lifecycle.  My goal was to show that a machine could build and use its own tool - just like humans did when we developed beyond animals.  However I think we've got even better than that with this demonstration as ChatGPT can create a virtual reality within its realm and run simulations against it.  This would be incredibly hard for us humans to code without access to vast quantities of data, and configuring relationships between the data sets - ChatGPT does it in the time it takes for it to respond to your input!  The best part of this is that ChatGPT suggested doing this when I first enetered into conversation with it about how we can demonstate this concept of the machine building and using its own tool.
 
-I have run all this in GPT4, but Im sure GPT3.5 will also work, albeit with less efficacy and more hallucination.
+I have run all this in GPT4, but Im sure GPT3.5 will also work, albeit with less efficacy and greater inconsistency.
 
 ### Files
 This repo is composed of the following files:
