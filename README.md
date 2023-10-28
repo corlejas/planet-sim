@@ -11,7 +11,7 @@ This repo is composed of the following files:
 
 -  ***Planet Definition Prompts.pdf*** is the conversation I had with ChatGPT that created the defintions of the three planets.  It includes a couple of questions that run simulations as I began to understand the capabilities tied up in this approach.
 -  ***Planet Definitions.pdf*** these are the three planets as defined by ChatGPT, that you can insert into prompts to start a new simulation.
--  ***Planet Image Prompts.pdf*** is the conversation I had with ChatGPT4 with the DALL-E 3 extension to generate the images of the planets.
+-  ***Planet Images Prompts.pdf*** is the conversation I had with ChatGPT4 with the DALL-E 3 extension to generate the images of the planets.  It includes some ChatGPT auto-generated prompting (which is identified in the file by a differnet font), which you dont need to replicate.  ALso, I have not included the images within the file, my chosen images are incldued in this repo.  If you wish to replicate (although they will never be identical to what was produced before), then just use the prompts idenified by ## User
 -  ***Primordis.png*** is the DALL-E 3 representation of Primordis.
 -  ***Terranova.png*** is the DALL-E 3 representation of Terranova.
 -  ***Verdantia.png*** is the DALL-E 3 representation of Verdantia.
