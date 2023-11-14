@@ -16,3 +16,4 @@ This repo is composed of the following files:
 -  ***Terranova.png*** is the DALL-E 3 representation of Terranova.
 -  ***Verdantia.png*** is the DALL-E 3 representation of Verdantia.
 -  ***Repo QR Code.png*** is the QR code to direct to this repo.
+-  ***Leeds TTG - Verdantia Simulation.pdf*** is the pack presented for the Leeds TTG
