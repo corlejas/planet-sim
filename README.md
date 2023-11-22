@@ -17,3 +17,5 @@ This repo is composed of the following files:
 -  ***Verdantia.png*** is the DALL-E 3 representation of Verdantia.
 -  ***Repo QR Code.png*** is the QR code to direct to this repo.
 -  ***Leeds TTG - Verdantia Simulation.pdf*** is the pack presented for the Leeds TTG
+-  ***Leeds TTG Promptspdf*** is the transcript of the live conversation I had with ChatGPT at the Leeds TTG, including the prompt to setup the simulation.
+-  ***EA D&A Away Day Prompts.pdf*** is the transcript of the live conversation I had with ChatGPT at the EA D and A away day.
